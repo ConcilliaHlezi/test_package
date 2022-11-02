@@ -1,11 +1,17 @@
-Package: powerpack
-Title: Arithmethic for Exponents
+Package: uniquerCHM
+Type: Package
+Title: Identify all unique values from rows and columns
 Version: 0.0.0.9000
-Authors@R: 
-    person("Concillia", "Mpofu", , "cm0789a@american.edu", role = c("aut", "cre"),
+Authors@R: person("Concillia", "Mpofu", ,"cm0789a@american.edu", role = c("aut", "cre"),
            comment = c(ORCID = "YOUR-ORCID-ID"))
-Description: What the package does (one paragraph).
-License: GPL (>= 3)
+Description: This package has two functions that identify unique values from the columns and rows of the dataframe. 
+License: GPL-3
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.1.2
+Suggests: testthat (>= 3.0.0)
+Config/testthat/edition: 3
+Imports: dplyr
+NeedsCompilation: no
+Packaged: 2022-10-23 05:42:28 UTC; Concillia
+Author: Concillia Mpofu [aut, cre] (YOUR-ORCID-ID)
