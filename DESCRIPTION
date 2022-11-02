@@ -1,0 +1,11 @@
+Package: powerpack
+Title: Arithmethic for Exponents
+Version: 0.0.0.9000
+Authors@R: 
+    person("Concillia", "Mpofu", , "cm0789a@american.edu", role = c("aut", "cre"),
+           comment = c(ORCID = "YOUR-ORCID-ID"))
+Description: What the package does (one paragraph).
+License: GPL (>= 3)
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.2
